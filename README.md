@@ -39,7 +39,7 @@ Relationships:
 
 ## Project structure
 01_schema.sql – database schema (tables, keys, relations)<br>
-02_insert_data.sql – sample business data<br>
+02_data.sql – sample business data<br>
 03_analysis.sql – analytical SQL queries<br>
 README.md – project description
 
