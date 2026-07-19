@@ -41,6 +41,7 @@ Relationships:
 01_schema.sql – database schema (tables, keys, relations)<br>
 02_data.sql – sample business data<br>
 03_analysis.sql – analytical SQL queries<br>
+images/ – screenshots of selected query results<br>
 README.md – project description
 
 
